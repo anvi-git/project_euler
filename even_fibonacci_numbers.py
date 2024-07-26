@@ -4,8 +4,6 @@
 #By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms. 
 #link to the problem: https://projecteuler.net/problem=2
 
-import math
-
 i = 0
 sum = 0
 
