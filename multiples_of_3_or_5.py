@@ -4,8 +4,6 @@
 # Find the sum of all the multiples of 3 or 5 below 1000.
 # link to the problem https://projecteuler.net/problem=1
 
-import math
-
 sum = 0 #this stores the sum of the desired numbers
 i = 0 #this counts up to 1000
 
