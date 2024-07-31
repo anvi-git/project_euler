@@ -1,5 +1,6 @@
 #Problem #7: 10001st prime
 #What is the 10001st prime number?
+#link to the problem: https://projecteuler.net/problem=7
 
 def is_prime(n):
     if n <= 1:
